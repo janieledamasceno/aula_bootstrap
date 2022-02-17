@@ -1,0 +1,41 @@
+body{
+    font: Verdana;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.navbar{
+    background-color: #d63384
+}
+
+.nav-link{
+    font-size: 18px;
+}
+
+.quem-somos{
+    text-align: justify;
+    background-color: #dd71a7
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #dd71a7
+}
+.serviços{
+    font-size: 18px;
+    background-color: #d63384;
+}
+
+.btn{
+    background-color: #dd71a7;
+}
+
+.bg-footer{
+    background-color: #f01281;
+    color: white;
+    font-size: 15px;
+}
